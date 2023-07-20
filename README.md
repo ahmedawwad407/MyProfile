@@ -14,9 +14,8 @@ A Graduate of the Islamic University - Gaza, specialized in the field of Develop
  
 
 <div align="center">
-  <a href="https://abdalrahimshabansafi.github.io/visionmedia/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+       alt="snake" />
 </div>
 
 
