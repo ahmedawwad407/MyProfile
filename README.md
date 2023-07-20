@@ -62,8 +62,8 @@ Sunday       91  commits     ███████░░░░░░░░░░
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmedwadieawwad/"><img src="https://img.shields.io/badge/-Ahmed_Awwad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:awwadahmed407@gmail.com"><img src="https://img.shields.io/badge/-awwadahmed407@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/a7.awwad/"><img src="https://img.shields.io/badge/-@abdalrahim84-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/awwadahmad262"><img src="https://img.shields.io/badge/-@abed.sa22-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/a7.awwad/"><img src="https://img.shields.io/badge/-a7.awwad-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/awwadahmad262"><img src="https://img.shields.io/badge/-Ahmed_Awwad-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 ### ⚙️ &nbsp;Languages and Tools
